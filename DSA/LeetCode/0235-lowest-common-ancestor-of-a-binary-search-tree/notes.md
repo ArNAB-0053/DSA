@@ -1,0 +1,3 @@
+- A simple tree 
+- binary search tree
+- recursion
