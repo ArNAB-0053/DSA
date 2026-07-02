@@ -1,0 +1,22 @@
+{
+  "id": "3286",
+  "title": "Find a Safe Walk Through a Grid",
+  "slug": "find-a-safe-walk-through-a-grid",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Breadth-First Search",
+    "Graph Theory",
+    "Heap (Priority Queue)",
+    "Matrix",
+    "Shortest Path"
+  ],
+  "platform": "leetcode",
+  "language": "python3",
+  "url": "https://leetcode.com/problems/find-a-safe-walk-through-a-grid/",
+  "startedAt": "2026-07-02T14:55:41.365Z",
+  "solvedAt": "2026-07-02T15:59:40.048Z",
+  "activeDurationSeconds": 2938,
+  "createdAt": "2026-07-02T15:59:40.064Z",
+  "lastUpdatedAt": "2026-07-02T15:59:40.064Z"
+}
