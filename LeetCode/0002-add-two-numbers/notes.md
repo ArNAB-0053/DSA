@@ -1,2 +1,3 @@
-- add two numbers
-- linked list
+# Notes
+
+Add your revision notes here.
