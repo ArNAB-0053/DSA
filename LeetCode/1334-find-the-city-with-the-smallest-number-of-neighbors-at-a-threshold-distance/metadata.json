@@ -1,0 +1,19 @@
+{
+  "id": "1334",
+  "title": "Find the City With the Smallest Number of Neighbors at a Threshold Distance",
+  "slug": "find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance",
+  "difficulty": "Medium",
+  "topics": [
+    "Dynamic Programming",
+    "Graph Theory",
+    "Shortest Path"
+  ],
+  "platform": "leetcode",
+  "language": "python3",
+  "url": "https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/",
+  "startedAt": "2026-07-04T09:26:39.150Z",
+  "solvedAt": "2026-07-04T10:13:00.372Z",
+  "activeDurationSeconds": 326,
+  "createdAt": "2026-07-04T10:13:00.388Z",
+  "lastUpdatedAt": "2026-07-04T10:13:00.388Z"
+}
