@@ -1,0 +1,20 @@
+{
+  "id": "2492",
+  "title": "Minimum Score of a Path Between Two Cities",
+  "slug": "minimum-score-of-a-path-between-two-cities",
+  "difficulty": "Medium",
+  "topics": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Graph Theory"
+  ],
+  "platform": "leetcode",
+  "language": "python3",
+  "url": "https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/",
+  "startedAt": "2026-07-04T12:26:46.777Z",
+  "solvedAt": "2026-07-04T17:34:24.342Z",
+  "activeDurationSeconds": 1437,
+  "createdAt": "2026-07-04T17:34:24.358Z",
+  "lastUpdatedAt": "2026-07-04T17:34:24.358Z"
+}
