@@ -1,4 +1,4 @@
-1. this is hard
-2. this may not be the ideal solution
-3. will check for ideal solution
-4. if this is the optimised way then it will need way more practise
+1. Hard problem.
+2. Optimal TC/SC, but code is quite complex.
+3. Revisit for a cleaner implementation.
+4. Need more practice with multi-state DP and tie-handling.
