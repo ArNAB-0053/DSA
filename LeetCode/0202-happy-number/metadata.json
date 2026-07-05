@@ -1,0 +1,19 @@
+{
+  "id": "0202",
+  "title": "Happy Number",
+  "slug": "happy-number",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "Math",
+    "Two Pointers"
+  ],
+  "platform": "leetcode",
+  "language": "python3",
+  "url": "https://leetcode.com/problems/happy-number/",
+  "startedAt": "2026-07-05T10:20:32.935Z",
+  "solvedAt": "2026-07-05T11:24:09.226Z",
+  "activeDurationSeconds": 1391,
+  "createdAt": "2026-07-05T11:24:09.243Z",
+  "lastUpdatedAt": "2026-07-05T11:24:09.243Z"
+}
