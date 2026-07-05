@@ -1,0 +1,19 @@
+{
+  "id": "0048",
+  "title": "Rotate Image",
+  "slug": "rotate-image",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Matrix"
+  ],
+  "platform": "leetcode",
+  "language": "python3",
+  "url": "https://leetcode.com/problems/rotate-image/",
+  "startedAt": "2026-07-05T11:48:02.533Z",
+  "solvedAt": "2026-07-05T12:09:24.250Z",
+  "activeDurationSeconds": 1079,
+  "createdAt": "2026-07-05T12:09:24.265Z",
+  "lastUpdatedAt": "2026-07-05T12:09:24.265Z"
+}
