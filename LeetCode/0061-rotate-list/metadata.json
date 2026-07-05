@@ -1,0 +1,18 @@
+{
+  "id": "0061",
+  "title": "Rotate List",
+  "slug": "rotate-list",
+  "difficulty": "Medium",
+  "topics": [
+    "Linked List",
+    "Two Pointers"
+  ],
+  "platform": "leetcode",
+  "language": "python3",
+  "url": "https://leetcode.com/problems/rotate-list/",
+  "startedAt": "2026-07-05T12:39:34.363Z",
+  "solvedAt": "2026-07-05T13:21:30.535Z",
+  "activeDurationSeconds": 2002,
+  "createdAt": "2026-07-05T13:21:30.552Z",
+  "lastUpdatedAt": "2026-07-05T13:21:30.552Z"
+}
