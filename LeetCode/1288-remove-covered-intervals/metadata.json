@@ -1,0 +1,18 @@
+{
+  "id": "1288",
+  "title": "Remove Covered Intervals",
+  "slug": "remove-covered-intervals",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Sorting"
+  ],
+  "platform": "leetcode",
+  "language": "python3",
+  "url": "https://leetcode.com/problems/remove-covered-intervals/",
+  "startedAt": "2026-07-06T18:07:33.803Z",
+  "solvedAt": "2026-07-06T20:19:27.720Z",
+  "activeDurationSeconds": 2490,
+  "createdAt": "2026-07-06T20:19:27.738Z",
+  "lastUpdatedAt": "2026-07-06T20:19:27.738Z"
+}
