@@ -1,0 +1,2 @@
+- Dijktra 
+- return -> max(dist) # except 0th index
