@@ -1,0 +1,21 @@
+{
+  "id": "0743",
+  "title": "Network Delay Time",
+  "slug": "network-delay-time",
+  "difficulty": "Medium",
+  "topics": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph Theory",
+    "Heap (Priority Queue)",
+    "Shortest Path"
+  ],
+  "platform": "leetcode",
+  "language": "python3",
+  "url": "https://leetcode.com/problems/network-delay-time/",
+  "startedAt": "2026-07-07T19:18:19.981Z",
+  "solvedAt": "2026-07-07T19:41:12.121Z",
+  "activeDurationSeconds": 982,
+  "createdAt": "2026-07-07T19:41:12.154Z",
+  "lastUpdatedAt": "2026-07-07T19:41:12.154Z"
+}
