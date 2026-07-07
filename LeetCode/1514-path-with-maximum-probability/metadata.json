@@ -1,0 +1,20 @@
+{
+  "id": "1514",
+  "title": "Path with Maximum Probability",
+  "slug": "path-with-maximum-probability",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Graph Theory",
+    "Heap (Priority Queue)",
+    "Shortest Path"
+  ],
+  "platform": "leetcode",
+  "language": "python3",
+  "url": "https://leetcode.com/problems/path-with-maximum-probability/",
+  "startedAt": "2026-07-07T19:43:54.235Z",
+  "solvedAt": "2026-07-07T20:03:36.453Z",
+  "activeDurationSeconds": 883,
+  "createdAt": "2026-07-07T20:03:36.470Z",
+  "lastUpdatedAt": "2026-07-07T20:03:36.470Z"
+}
