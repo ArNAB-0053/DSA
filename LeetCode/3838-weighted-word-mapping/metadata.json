@@ -1,0 +1,19 @@
+{
+  "id": "3838",
+  "title": "Weighted Word Mapping",
+  "slug": "weighted-word-mapping",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "String",
+    "Simulation"
+  ],
+  "platform": "leetcode",
+  "language": "python3",
+  "url": "https://leetcode.com/problems/weighted-word-mapping/",
+  "startedAt": "2026-07-08T19:03:19.401Z",
+  "solvedAt": "2026-07-08T19:29:34.363Z",
+  "activeDurationSeconds": 646,
+  "createdAt": "2026-07-08T19:29:34.376Z",
+  "lastUpdatedAt": "2026-07-08T19:29:34.376Z"
+}
