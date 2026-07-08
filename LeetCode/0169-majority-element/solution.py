@@ -19,7 +19,7 @@ class Solution:
         # - Since the majority element appears more than n/2 times, it cannot be completely canceled out.
         # - The remaining candidate at the end is the majority element.
 
-        candidate, cnt = 0, 0
+        candidate, cnt = None, 0
 
         for n in nums:
             if cnt == 0:
