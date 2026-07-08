@@ -1,0 +1,19 @@
+{
+  "id": "3756",
+  "title": "Concatenate Non-Zero Digits and Multiply by Sum II",
+  "slug": "concatenate-non-zero-digits-and-multiply-by-sum-ii",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "String",
+    "Prefix Sum"
+  ],
+  "platform": "leetcode",
+  "language": "python3",
+  "url": "https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/",
+  "startedAt": "2026-07-08T13:46:58.878Z",
+  "solvedAt": "2026-07-08T18:30:40.927Z",
+  "activeDurationSeconds": 4945,
+  "createdAt": "2026-07-08T18:30:41.037Z",
+  "lastUpdatedAt": "2026-07-08T18:30:41.037Z"
+}
