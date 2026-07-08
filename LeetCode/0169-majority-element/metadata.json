@@ -1,0 +1,21 @@
+{
+  "id": "0169",
+  "title": "Majority Element",
+  "slug": "majority-element",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Divide and Conquer",
+    "Sorting",
+    "Counting"
+  ],
+  "platform": "leetcode",
+  "language": "python3",
+  "url": "https://leetcode.com/problems/majority-element/",
+  "startedAt": "2026-07-08T19:35:25.283Z",
+  "solvedAt": "2026-07-08T20:09:17.469Z",
+  "activeDurationSeconds": 1001,
+  "createdAt": "2026-07-08T20:09:17.488Z",
+  "lastUpdatedAt": "2026-07-08T20:09:17.488Z"
+}
