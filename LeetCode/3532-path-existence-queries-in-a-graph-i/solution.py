@@ -55,6 +55,8 @@
 
 
 # Shorter and code optimised way for this problem
+# Since nums is sorted, any gap > maxDiff splits the graph into a new connected component
+# so we can follow this approach
 class Solution:
     def pathExistenceQueries(self, n: int, nums: List[int], maxDiff: int, queries: List[List[int]]) -> List[bool]:
         # creates component ID of node i
