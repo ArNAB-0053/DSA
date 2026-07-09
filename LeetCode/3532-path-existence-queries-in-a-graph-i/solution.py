@@ -14,7 +14,8 @@
 #             return x
 #         self.parents[x] = self.find(self.parents[x]) # path compression
 #         return self.parents[x]
-
+    
+#     # merges smaller component to larger component
 #     def union(self, a:int, b:int):
 #         # finding the root parent
 #         pa = self.find(a)
