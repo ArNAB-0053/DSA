@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "title": "Floyd Warshall",
+  "slug": "implementing-floyd-warshall2042",
+  "difficulty": "Medium",
+  "topics": [
+    "Dynamic Programming",
+    "Graph",
+    "Data Structures",
+    "Algorithms"
+  ],
+  "companies": [
+    "Samsung"
+  ],
+  "platform": "geeksforgeeks",
+  "language": "python",
+  "url": "https://www.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1",
+  "startedAt": "2026-07-10T20:14:05.949Z",
+  "solvedAt": "2026-07-10T20:14:14.092Z",
+  "activeDurationSeconds": 8,
+  "createdAt": "2026-07-10T20:14:14.094Z",
+  "lastUpdatedAt": "2026-07-10T20:14:14.094Z"
+}
