@@ -1,0 +1,17 @@
+{
+  "id": "0520",
+  "title": "Detect Capital",
+  "slug": "detect-capital",
+  "difficulty": "Easy",
+  "topics": [
+    "String"
+  ],
+  "platform": "leetcode",
+  "language": "python3",
+  "url": "https://leetcode.com/problems/detect-capital/",
+  "startedAt": "2026-07-10T15:24:50.185Z",
+  "solvedAt": "2026-07-10T16:18:36.466Z",
+  "activeDurationSeconds": 2678,
+  "createdAt": "2026-07-10T16:18:36.492Z",
+  "lastUpdatedAt": "2026-07-10T16:18:36.492Z"
+}
