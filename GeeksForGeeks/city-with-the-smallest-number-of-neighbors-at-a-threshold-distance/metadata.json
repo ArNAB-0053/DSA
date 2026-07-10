@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "title": "City With the Smallest Number of Neighbors at a Threshold Distance",
+  "slug": "city-with-the-smallest-number-of-neighbors-at-a-threshold-distance",
+  "difficulty": "Medium",
+  "topics": [
+    "Graph",
+    "Shortest Path",
+    "BFS",
+    "Disjoint Set",
+    "Data Structures",
+    "Algorithms"
+  ],
+  "companies": [],
+  "platform": "geeksforgeeks",
+  "language": "python",
+  "url": "https://www.geeksforgeeks.org/problems/city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/1",
+  "startedAt": "2026-07-10T20:13:23.922Z",
+  "solvedAt": "2026-07-10T20:13:41.173Z",
+  "activeDurationSeconds": 11,
+  "createdAt": "2026-07-10T20:13:41.251Z",
+  "lastUpdatedAt": "2026-07-10T20:13:41.251Z"
+}
