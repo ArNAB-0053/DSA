@@ -1,0 +1,27 @@
+{
+  "id": "",
+  "title": "Minimum Spanning Tree",
+  "slug": "minimum-spanning-tree",
+  "difficulty": "Medium",
+  "topics": [
+    "Greedy",
+    "Graph",
+    "Data Structures",
+    "Algorithms"
+  ],
+  "companies": [
+    "Flipkart",
+    "Amazon",
+    "Microsoft",
+    "Samsung",
+    "Cisco"
+  ],
+  "platform": "geeksforgeeks",
+  "language": "python",
+  "url": "https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1",
+  "startedAt": "2026-07-10T14:00:05.044Z",
+  "solvedAt": "2026-07-10T14:01:47.542Z",
+  "activeDurationSeconds": 25,
+  "createdAt": "2026-07-10T14:01:47.559Z",
+  "lastUpdatedAt": "2026-07-10T14:01:47.559Z"
+}
