@@ -1,5 +1,11 @@
 class Solution:
     # dfs on adjacency matrix
+
+    # DFS/BFS is the preferred solution for this problem.
+    # It is simpler and achieves the same O(n²) complexity.
+    #
+    # The DSU solution is implemented here mainly for Union-Find practice, as provinces are essentially connected components.
+    
     # def dfs(self, vis, adjMat, node):
     #     """
 
@@ -48,7 +54,7 @@ class Solution:
 
         return dsu.getTotalUniqueParents()
 
-# The main 
+# The main DSU class
 class DSU:
     def __init__(self, n):
         self.parents = list(range(n))
@@ -72,6 +78,12 @@ class DSU:
         self.parents[pb] = pa
         self.size[pa] += self.size[pb]
 
+    # Returns the number of connected components.
+    
+    # In DSU, every connected component is represented by a root node
+    # A root node is identified by:
+    #     parents[i] == i
+    # Therefore, counting the number of root nodes gives us the total number of distinct connected components (provinces)
     def getTotalUniqueParents(self):
         cnt = 0
         for i in range(len(self.parents)):
