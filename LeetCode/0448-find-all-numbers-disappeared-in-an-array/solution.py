@@ -22,7 +22,6 @@ class Solution:
         # TC: O(n)
         # SC: O(1)
         n = len(nums)
-        t = [0] * (n+1)
 
         for num in nums:
             idx = abs(num)-1
