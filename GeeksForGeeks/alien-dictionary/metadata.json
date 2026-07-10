@@ -1,0 +1,29 @@
+{
+  "id": "",
+  "title": "Alien Dictionary",
+  "slug": "alien-dictionary",
+  "difficulty": "Hard",
+  "topics": [
+    "Strings",
+    "Sorting",
+    "Graph",
+    "Data Structures",
+    "Algorithms"
+  ],
+  "companies": [
+    "Flipkart",
+    "Amazon",
+    "Microsoft",
+    "OYO Rooms",
+    "Walmart",
+    "Google"
+  ],
+  "platform": "geeksforgeeks",
+  "language": "python",
+  "url": "https://www.geeksforgeeks.org/problems/alien-dictionary/1",
+  "startedAt": "2026-07-10T20:16:47.604Z",
+  "solvedAt": "2026-07-10T20:16:54.039Z",
+  "activeDurationSeconds": 6,
+  "createdAt": "2026-07-10T20:16:54.104Z",
+  "lastUpdatedAt": "2026-07-10T20:16:54.104Z"
+}
