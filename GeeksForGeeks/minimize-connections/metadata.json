@@ -1,0 +1,26 @@
+{
+  "id": "",
+  "title": "Minimum Operations to Connect Hospitals",
+  "slug": "minimize-connections",
+  "difficulty": "Medium",
+  "topics": [
+    "Graph",
+    "Disjoint Set",
+    "Algorithms"
+  ],
+  "companies": [
+    "Amazon",
+    "Microsoft",
+    "Intuit",
+    "Salesforce",
+    "IBM"
+  ],
+  "platform": "geeksforgeeks",
+  "language": "python",
+  "url": "https://www.geeksforgeeks.org/problems/minimize-connections/1",
+  "startedAt": "2026-07-10T20:09:11.959Z",
+  "solvedAt": "2026-07-10T20:10:22.456Z",
+  "activeDurationSeconds": 52,
+  "createdAt": "2026-07-10T20:10:22.526Z",
+  "lastUpdatedAt": "2026-07-10T20:10:22.526Z"
+}
