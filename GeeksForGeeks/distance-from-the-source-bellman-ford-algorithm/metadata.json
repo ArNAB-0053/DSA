@@ -1,0 +1,24 @@
+{
+  "id": "",
+  "title": "Bellman-Ford",
+  "slug": "distance-from-the-source-bellman-ford-algorithm",
+  "difficulty": "Medium",
+  "topics": [
+    "Dynamic Programming",
+    "Graph",
+    "Data Structures",
+    "Algorithms"
+  ],
+  "companies": [
+    "Amazon",
+    "Microsoft"
+  ],
+  "platform": "geeksforgeeks",
+  "language": "python",
+  "url": "https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1",
+  "startedAt": "2026-07-10T20:15:01.437Z",
+  "solvedAt": "2026-07-10T20:15:35.892Z",
+  "activeDurationSeconds": 15,
+  "createdAt": "2026-07-10T20:15:35.967Z",
+  "lastUpdatedAt": "2026-07-10T20:15:35.967Z"
+}
