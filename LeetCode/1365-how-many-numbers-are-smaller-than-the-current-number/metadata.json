@@ -1,0 +1,20 @@
+{
+  "id": "1365",
+  "title": "How Many Numbers Are Smaller Than the Current Number",
+  "slug": "how-many-numbers-are-smaller-than-the-current-number",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Sorting",
+    "Counting Sort"
+  ],
+  "platform": "leetcode",
+  "language": "python3",
+  "url": "https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/",
+  "startedAt": "2026-07-10T20:45:44.924Z",
+  "solvedAt": "2026-07-10T21:25:39.174Z",
+  "activeDurationSeconds": 1131,
+  "createdAt": "2026-07-10T21:25:39.248Z",
+  "lastUpdatedAt": "2026-07-10T21:25:39.248Z"
+}
