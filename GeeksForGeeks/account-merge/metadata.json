@@ -1,0 +1,24 @@
+{
+  "id": "",
+  "title": "Account Merge",
+  "slug": "account-merge",
+  "difficulty": "Hard",
+  "topics": [
+    "Arrays",
+    "Hash",
+    "DFS",
+    "Graph",
+    "union-find",
+    "Data Structures",
+    "Algorithms"
+  ],
+  "companies": [],
+  "platform": "geeksforgeeks",
+  "language": "python",
+  "url": "https://www.geeksforgeeks.org/problems/account-merge/1",
+  "startedAt": "2026-07-10T20:07:49.460Z",
+  "solvedAt": "2026-07-10T20:08:56.810Z",
+  "activeDurationSeconds": 48,
+  "createdAt": "2026-07-10T20:08:56.876Z",
+  "lastUpdatedAt": "2026-07-10T20:08:56.876Z"
+}
