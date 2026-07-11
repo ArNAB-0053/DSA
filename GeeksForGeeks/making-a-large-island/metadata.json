@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "title": "Making A Large Island",
+  "slug": "making-a-large-island",
+  "difficulty": "Hard",
+  "topics": [
+    "Matrix",
+    "DFS",
+    "BFS",
+    "union-find"
+  ],
+  "companies": [
+    "Intuit"
+  ],
+  "platform": "geeksforgeeks",
+  "language": "python",
+  "url": "https://www.geeksforgeeks.org/problems/making-a-large-island/1",
+  "startedAt": "2026-07-11T11:18:47.169Z",
+  "solvedAt": "2026-07-11T12:39:02.493Z",
+  "activeDurationSeconds": 6642,
+  "createdAt": "2026-07-11T12:05:43.533Z",
+  "lastUpdatedAt": "2026-07-11T12:39:02.561Z"
+}
