@@ -1,0 +1,18 @@
+{
+  "id": "0636",
+  "title": "Exclusive Time of Functions",
+  "slug": "exclusive-time-of-functions",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Stack"
+  ],
+  "platform": "leetcode",
+  "language": "python3",
+  "url": "https://leetcode.com/problems/exclusive-time-of-functions/",
+  "startedAt": "2026-07-11T18:50:04.899Z",
+  "solvedAt": "2026-07-11T20:00:19.547Z",
+  "activeDurationSeconds": 2263,
+  "createdAt": "2026-07-11T20:00:19.564Z",
+  "lastUpdatedAt": "2026-07-11T20:00:19.564Z"
+}
