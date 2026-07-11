@@ -1,0 +1,19 @@
+{
+  "id": "",
+  "title": "Number Of Islands",
+  "slug": "number-of-islands",
+  "difficulty": "Medium",
+  "topics": [
+    "union-find",
+    "Algorithms"
+  ],
+  "companies": [],
+  "platform": "geeksforgeeks",
+  "language": "python",
+  "url": "https://www.geeksforgeeks.org/problems/number-of-islands/1",
+  "startedAt": "2026-07-11T09:19:01.509Z",
+  "solvedAt": "2026-07-11T10:04:49.424Z",
+  "activeDurationSeconds": 1557,
+  "createdAt": "2026-07-11T10:04:49.531Z",
+  "lastUpdatedAt": "2026-07-11T10:04:49.531Z"
+}
