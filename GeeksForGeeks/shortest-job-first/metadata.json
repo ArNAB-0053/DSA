@@ -1,0 +1,18 @@
+{
+  "id": "",
+  "title": "Shortest Job first",
+  "slug": "shortest-job-first",
+  "difficulty": "Medium",
+  "topics": [
+    "Greedy"
+  ],
+  "companies": [],
+  "platform": "geeksforgeeks",
+  "language": "python",
+  "url": "https://www.geeksforgeeks.org/problems/shortest-job-first/1",
+  "startedAt": "2026-07-12T11:17:16.062Z",
+  "solvedAt": "2026-07-12T11:24:27.186Z",
+  "activeDurationSeconds": 231,
+  "createdAt": "2026-07-12T11:24:27.266Z",
+  "lastUpdatedAt": "2026-07-12T11:24:27.266Z"
+}
