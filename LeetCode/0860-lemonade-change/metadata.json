@@ -1,0 +1,18 @@
+{
+  "id": "0860",
+  "title": "Lemonade Change",
+  "slug": "lemonade-change",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Greedy"
+  ],
+  "platform": "leetcode",
+  "language": "python3",
+  "url": "https://leetcode.com/problems/lemonade-change/",
+  "startedAt": "2026-07-12T11:09:08.236Z",
+  "solvedAt": "2026-07-12T11:17:35.496Z",
+  "activeDurationSeconds": 134,
+  "createdAt": "2026-07-12T11:17:35.515Z",
+  "lastUpdatedAt": "2026-07-12T11:17:35.515Z"
+}
