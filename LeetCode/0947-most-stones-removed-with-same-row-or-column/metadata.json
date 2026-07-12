@@ -1,0 +1,20 @@
+{
+  "id": "0947",
+  "title": "Most Stones Removed with Same Row or Column",
+  "slug": "most-stones-removed-with-same-row-or-column",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "Depth-First Search",
+    "Union-Find",
+    "Graph Theory"
+  ],
+  "platform": "leetcode",
+  "language": "python3",
+  "url": "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/",
+  "startedAt": "2026-07-12T08:17:28.092Z",
+  "solvedAt": "2026-07-12T08:56:04.675Z",
+  "activeDurationSeconds": 1813,
+  "createdAt": "2026-07-12T08:56:04.794Z",
+  "lastUpdatedAt": "2026-07-12T08:56:04.794Z"
+}
