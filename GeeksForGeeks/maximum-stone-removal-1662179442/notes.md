@@ -1,3 +1,3 @@
-# Notes
+**Leetcode:** https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/
 
-Add your revision notes here.
+**There I already explained everything.**
