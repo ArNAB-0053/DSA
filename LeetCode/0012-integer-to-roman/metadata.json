@@ -1,0 +1,19 @@
+{
+  "id": "0012",
+  "title": "Integer to Roman",
+  "slug": "integer-to-roman",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "Math",
+    "String"
+  ],
+  "platform": "leetcode",
+  "language": "python3",
+  "url": "https://leetcode.com/problems/integer-to-roman/",
+  "startedAt": "2026-07-14T19:21:55.055Z",
+  "solvedAt": "2026-07-14T19:47:48.238Z",
+  "activeDurationSeconds": 776,
+  "createdAt": "2026-07-14T19:47:48.324Z",
+  "lastUpdatedAt": "2026-07-14T19:47:48.324Z"
+}
