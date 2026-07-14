@@ -1,0 +1,20 @@
+{
+  "id": "3336",
+  "title": "Find the Number of Subsequences With Equal GCD",
+  "slug": "find-the-number-of-subsequences-with-equal-gcd",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Number Theory"
+  ],
+  "platform": "leetcode",
+  "language": "python3",
+  "url": "https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/",
+  "startedAt": "2026-07-14T14:53:54.745Z",
+  "solvedAt": "2026-07-14T19:19:11.648Z",
+  "activeDurationSeconds": 2586,
+  "createdAt": "2026-07-14T19:19:11.675Z",
+  "lastUpdatedAt": "2026-07-14T19:19:11.675Z"
+}
