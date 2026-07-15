@@ -1,0 +1,18 @@
+{
+  "id": "3658",
+  "title": "GCD of Odd and Even Sums",
+  "slug": "gcd-of-odd-and-even-sums",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Number Theory"
+  ],
+  "platform": "leetcode",
+  "language": "python3",
+  "url": "https://leetcode.com/problems/gcd-of-odd-and-even-sums/",
+  "startedAt": "2026-07-15T07:31:03.523Z",
+  "solvedAt": "2026-07-15T16:48:29.532Z",
+  "activeDurationSeconds": 452,
+  "createdAt": "2026-07-15T16:48:29.560Z",
+  "lastUpdatedAt": "2026-07-15T16:48:29.560Z"
+}
