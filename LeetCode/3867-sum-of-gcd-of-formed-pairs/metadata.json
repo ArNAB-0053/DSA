@@ -1,0 +1,22 @@
+{
+  "id": "3867",
+  "title": "Sum of GCD of Formed Pairs",
+  "slug": "sum-of-gcd-of-formed-pairs",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Two Pointers",
+    "Sorting",
+    "Simulation",
+    "Number Theory"
+  ],
+  "platform": "leetcode",
+  "language": "python3",
+  "url": "https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/",
+  "startedAt": "2026-07-16T13:37:22.750Z",
+  "solvedAt": "2026-07-16T19:11:00.692Z",
+  "activeDurationSeconds": 1925,
+  "createdAt": "2026-07-16T19:11:00.710Z",
+  "lastUpdatedAt": "2026-07-16T19:11:00.710Z"
+}
