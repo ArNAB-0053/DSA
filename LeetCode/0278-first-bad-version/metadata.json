@@ -1,0 +1,18 @@
+{
+  "id": "0278",
+  "title": "First Bad Version",
+  "slug": "first-bad-version",
+  "difficulty": "Easy",
+  "topics": [
+    "Binary Search",
+    "Interactive"
+  ],
+  "platform": "leetcode",
+  "language": "python3",
+  "url": "https://leetcode.com/problems/first-bad-version/",
+  "startedAt": "2026-07-19T10:11:09.235Z",
+  "solvedAt": "2026-07-19T11:04:58.454Z",
+  "activeDurationSeconds": 1896,
+  "createdAt": "2026-07-19T11:04:58.470Z",
+  "lastUpdatedAt": "2026-07-19T11:04:58.470Z"
+}
