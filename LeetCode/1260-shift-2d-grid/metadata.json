@@ -1,0 +1,19 @@
+{
+  "id": "1260",
+  "title": "Shift 2D Grid",
+  "slug": "shift-2d-grid",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Matrix",
+    "Simulation"
+  ],
+  "platform": "leetcode",
+  "language": "python3",
+  "url": "https://leetcode.com/problems/shift-2d-grid/",
+  "startedAt": "2026-07-20T06:16:54.756Z",
+  "solvedAt": "2026-07-20T09:11:58.794Z",
+  "activeDurationSeconds": 2490,
+  "createdAt": "2026-07-20T09:11:58.810Z",
+  "lastUpdatedAt": "2026-07-20T09:11:58.810Z"
+}
