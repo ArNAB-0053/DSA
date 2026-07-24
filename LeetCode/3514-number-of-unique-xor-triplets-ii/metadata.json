@@ -1,0 +1,20 @@
+{
+  "id": "3514",
+  "title": "Number of Unique XOR Triplets II",
+  "slug": "number-of-unique-xor-triplets-ii",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Bit Manipulation",
+    "Enumeration"
+  ],
+  "platform": "leetcode",
+  "language": "python3",
+  "url": "https://leetcode.com/problems/number-of-unique-xor-triplets-ii/",
+  "startedAt": "2026-07-24T11:58:00.903Z",
+  "solvedAt": "2026-07-24T15:19:44.053Z",
+  "activeDurationSeconds": 489,
+  "createdAt": "2026-07-24T15:19:44.072Z",
+  "lastUpdatedAt": "2026-07-24T15:19:44.072Z"
+}
