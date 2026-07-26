@@ -1,0 +1,19 @@
+{
+  "id": "0628",
+  "title": "Maximum Product of Three Numbers",
+  "slug": "maximum-product-of-three-numbers",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math",
+    "Sorting"
+  ],
+  "platform": "leetcode",
+  "language": "python3",
+  "url": "https://leetcode.com/problems/maximum-product-of-three-numbers/",
+  "startedAt": "2026-07-26T05:41:20.506Z",
+  "solvedAt": "2026-07-26T14:27:33.068Z",
+  "activeDurationSeconds": 1801,
+  "createdAt": "2026-07-26T14:27:33.086Z",
+  "lastUpdatedAt": "2026-07-26T14:27:33.086Z"
+}
