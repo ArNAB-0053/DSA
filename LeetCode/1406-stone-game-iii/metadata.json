@@ -1,0 +1,22 @@
+{
+  "id": "1406",
+  "title": "Stone Game III",
+  "slug": "stone-game-iii",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Minimax",
+    "Game Theory",
+    "Zero-Sum Game"
+  ],
+  "platform": "leetcode",
+  "language": "python3",
+  "url": "https://leetcode.com/problems/stone-game-iii/",
+  "startedAt": "2026-08-03T16:03:29.361Z",
+  "solvedAt": "2026-08-03T17:01:23.290Z",
+  "activeDurationSeconds": 1753,
+  "createdAt": "2026-08-03T17:01:23.305Z",
+  "lastUpdatedAt": "2026-08-03T17:01:23.305Z"
+}
