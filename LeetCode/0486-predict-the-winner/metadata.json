@@ -1,0 +1,23 @@
+{
+  "id": "0486",
+  "title": "Predict the Winner",
+  "slug": "predict-the-winner",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Recursion",
+    "Minimax",
+    "Game Theory",
+    "Zero-Sum Game"
+  ],
+  "platform": "leetcode",
+  "language": "python3",
+  "url": "https://leetcode.com/problems/predict-the-winner/",
+  "startedAt": "2026-08-03T14:35:16.042Z",
+  "solvedAt": "2026-08-03T16:00:14.935Z",
+  "activeDurationSeconds": 3025,
+  "createdAt": "2026-08-03T16:00:14.949Z",
+  "lastUpdatedAt": "2026-08-03T16:00:14.949Z"
+}
