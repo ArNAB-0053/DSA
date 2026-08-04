@@ -1,0 +1,19 @@
+{
+  "id": "3731",
+  "title": "Find Missing Elements",
+  "slug": "find-missing-elements",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Sorting"
+  ],
+  "platform": "leetcode",
+  "language": "python3",
+  "url": "https://leetcode.com/problems/find-missing-elements/",
+  "startedAt": "2026-08-04T06:22:52.949Z",
+  "solvedAt": "2026-08-04T07:40:56.356Z",
+  "activeDurationSeconds": 3136,
+  "createdAt": "2026-08-04T07:40:56.449Z",
+  "lastUpdatedAt": "2026-08-04T07:40:56.449Z"
+}
