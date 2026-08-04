@@ -37,14 +37,14 @@ class Solution:
         exists = [False] * 101 # constant space
 
         for n in nums:
-            exists[n-1] = True
+            exists[n] = True
             mn = min(n, mn)
             mx = max(n, mx)
 
         ans = []
-        for i in range(mn, mx):
+        for i in range(mn+1, mx):
             if not exists[i]:
-                ans.append(i+1)
+                ans.append(i)
         
         return ans
 
