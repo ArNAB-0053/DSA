@@ -1,0 +1,28 @@
+{
+  "id": "",
+  "title": "Zig-Zag Tree Traversal",
+  "slug": "zigzag-tree-traversal",
+  "difficulty": "Medium",
+  "topics": [
+    "Traversal",
+    "Tree"
+  ],
+  "companies": [
+    "Flipkart",
+    "Amazon",
+    "Microsoft",
+    "Snapdeal",
+    "FactSet",
+    "Hike",
+    "Walmart",
+    "Cisco"
+  ],
+  "platform": "geeksforgeeks",
+  "language": "python",
+  "url": "https://www.geeksforgeeks.org/problems/zigzag-tree-traversal/1",
+  "startedAt": "2026-08-09T11:55:58.369Z",
+  "solvedAt": "2026-08-09T12:11:20.013Z",
+  "activeDurationSeconds": 705,
+  "createdAt": "2026-08-09T12:11:20.078Z",
+  "lastUpdatedAt": "2026-08-09T12:11:20.078Z"
+}
