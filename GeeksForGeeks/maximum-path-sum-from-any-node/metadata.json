@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "title": "Maximum Path Sum",
+  "slug": "maximum-path-sum-from-any-node",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree"
+  ],
+  "companies": [
+    "Flipkart",
+    "Google",
+    "Facebook",
+    "NPCI"
+  ],
+  "platform": "geeksforgeeks",
+  "language": "python",
+  "url": "https://www.geeksforgeeks.org/problems/maximum-path-sum-from-any-node/1",
+  "startedAt": "2026-08-09T09:07:36.387Z",
+  "solvedAt": "2026-08-09T09:19:31.851Z",
+  "activeDurationSeconds": 407,
+  "createdAt": "2026-08-09T09:19:31.922Z",
+  "lastUpdatedAt": "2026-08-09T09:19:31.922Z"
+}
