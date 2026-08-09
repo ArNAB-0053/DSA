@@ -1,0 +1,22 @@
+{
+  "id": "",
+  "title": "Identical Trees",
+  "slug": "determine-if-two-trees-are-identical",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree"
+  ],
+  "companies": [
+    "Flipkart",
+    "Amazon",
+    "Microsoft"
+  ],
+  "platform": "geeksforgeeks",
+  "language": "python",
+  "url": "https://www.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1",
+  "startedAt": "2026-08-09T11:46:35.838Z",
+  "solvedAt": "2026-08-09T11:51:51.097Z",
+  "activeDurationSeconds": 172,
+  "createdAt": "2026-08-09T11:51:51.182Z",
+  "lastUpdatedAt": "2026-08-09T11:51:51.182Z"
+}
