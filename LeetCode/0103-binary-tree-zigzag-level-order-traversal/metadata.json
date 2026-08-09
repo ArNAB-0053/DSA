@@ -1,0 +1,19 @@
+{
+  "id": "0103",
+  "title": "Binary Tree Zigzag Level Order Traversal",
+  "slug": "binary-tree-zigzag-level-order-traversal",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "platform": "leetcode",
+  "language": "python3",
+  "url": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
+  "startedAt": "2026-08-09T11:55:01.646Z",
+  "solvedAt": "2026-08-09T12:36:49.997Z",
+  "activeDurationSeconds": 414,
+  "createdAt": "2026-08-09T12:36:50.009Z",
+  "lastUpdatedAt": "2026-08-09T12:36:50.009Z"
+}
