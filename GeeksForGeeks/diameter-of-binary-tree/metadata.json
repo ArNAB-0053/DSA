@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "title": "Diameter of a Binary Tree",
+  "slug": "diameter-of-binary-tree",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree"
+  ],
+  "companies": [
+    "Amazon",
+    "Microsoft",
+    "OYO Rooms",
+    "NPCI"
+  ],
+  "platform": "geeksforgeeks",
+  "language": "python",
+  "url": "https://www.geeksforgeeks.org/problems/diameter-of-binary-tree/1",
+  "startedAt": "2026-08-09T08:45:14.152Z",
+  "solvedAt": "2026-08-09T08:49:32.039Z",
+  "activeDurationSeconds": 254,
+  "createdAt": "2026-08-09T08:49:32.108Z",
+  "lastUpdatedAt": "2026-08-09T08:49:32.108Z"
+}
