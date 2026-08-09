@@ -1,0 +1,33 @@
+{
+  "id": "",
+  "title": "Height of Binary Tree",
+  "slug": "height-of-binary-tree",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree"
+  ],
+  "companies": [
+    "VMWare",
+    "Zoho",
+    "Amazon",
+    "Microsoft",
+    "Snapdeal",
+    "D-E-Shaw",
+    "FactSet",
+    "MakeMyTrip",
+    "Teradata",
+    "Synopsys",
+    "CouponDunia",
+    "Cadence India",
+    "Monotype Solutions",
+    "FreeCharge"
+  ],
+  "platform": "geeksforgeeks",
+  "language": "python",
+  "url": "https://www.geeksforgeeks.org/problems/height-of-binary-tree/1",
+  "startedAt": "2026-08-09T07:45:53.559Z",
+  "solvedAt": "2026-08-09T07:51:11.099Z",
+  "activeDurationSeconds": 252,
+  "createdAt": "2026-08-09T07:51:11.178Z",
+  "lastUpdatedAt": "2026-08-09T07:51:11.178Z"
+}
