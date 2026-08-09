@@ -1,0 +1,22 @@
+{
+  "id": "",
+  "title": "Balanced Tree Check",
+  "slug": "check-for-balanced-tree",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree"
+  ],
+  "companies": [
+    "Amazon",
+    "Microsoft",
+    "Walmart"
+  ],
+  "platform": "geeksforgeeks",
+  "language": "python",
+  "url": "https://www.geeksforgeeks.org/problems/check-for-balanced-tree/1",
+  "startedAt": "2026-08-09T08:14:50.320Z",
+  "solvedAt": "2026-08-09T08:20:29.271Z",
+  "activeDurationSeconds": 312,
+  "createdAt": "2026-08-09T08:20:29.339Z",
+  "lastUpdatedAt": "2026-08-09T08:20:29.339Z"
+}
