@@ -1,0 +1,21 @@
+{
+  "id": "0257",
+  "title": "Binary Tree Paths",
+  "slug": "binary-tree-paths",
+  "difficulty": "Easy",
+  "topics": [
+    "String",
+    "Backtracking",
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+  ],
+  "platform": "leetcode",
+  "language": "python3",
+  "url": "https://leetcode.com/problems/binary-tree-paths/",
+  "startedAt": "2026-08-10T14:02:45.717Z",
+  "solvedAt": "2026-08-10T14:53:12.202Z",
+  "activeDurationSeconds": 636,
+  "createdAt": "2026-08-10T14:53:12.218Z",
+  "lastUpdatedAt": "2026-08-10T14:53:12.218Z"
+}
