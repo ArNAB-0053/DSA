@@ -1,0 +1,21 @@
+{
+  "id": "",
+  "title": "Symmetric Tree",
+  "slug": "symmetric-tree",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree"
+  ],
+  "companies": [
+    "Amazon",
+    "Microsoft"
+  ],
+  "platform": "geeksforgeeks",
+  "language": "python",
+  "url": "https://www.geeksforgeeks.org/problems/symmetric-tree/1",
+  "startedAt": "2026-08-10T12:24:21.788Z",
+  "solvedAt": "2026-08-10T12:36:45.503Z",
+  "activeDurationSeconds": 637,
+  "createdAt": "2026-08-10T12:36:45.576Z",
+  "lastUpdatedAt": "2026-08-10T12:36:45.576Z"
+}
