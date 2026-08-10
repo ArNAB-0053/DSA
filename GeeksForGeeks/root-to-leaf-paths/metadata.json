@@ -1,0 +1,24 @@
+{
+  "id": "",
+  "title": "Root to Leaf Paths",
+  "slug": "root-to-leaf-paths",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree",
+    "Recursion",
+    "Arrays",
+    "Binary Search Tree"
+  ],
+  "companies": [
+    "Paytm",
+    "Amazon"
+  ],
+  "platform": "geeksforgeeks",
+  "language": "python",
+  "url": "https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1",
+  "startedAt": "2026-08-10T13:57:38.227Z",
+  "solvedAt": "2026-08-10T14:30:53.160Z",
+  "activeDurationSeconds": 1727,
+  "createdAt": "2026-08-10T14:30:53.227Z",
+  "lastUpdatedAt": "2026-08-10T14:30:53.227Z"
+}
