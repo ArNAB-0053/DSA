@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "title": "Top View of Binary Tree",
+  "slug": "top-view-of-binary-tree",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree"
+  ],
+  "companies": [
+    "Paytm",
+    "Ola Cabs",
+    "Walmart",
+    "NPCI"
+  ],
+  "platform": "geeksforgeeks",
+  "language": "python",
+  "url": "https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1",
+  "startedAt": "2026-08-10T11:02:36.875Z",
+  "solvedAt": "2026-08-10T11:13:27.833Z",
+  "activeDurationSeconds": 526,
+  "createdAt": "2026-08-10T11:13:27.962Z",
+  "lastUpdatedAt": "2026-08-10T11:13:27.962Z"
+}
