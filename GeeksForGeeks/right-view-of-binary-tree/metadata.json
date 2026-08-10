@@ -1,0 +1,24 @@
+{
+  "id": "",
+  "title": "Right View of Binary Tree",
+  "slug": "right-view-of-binary-tree",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree"
+  ],
+  "companies": [
+    "Accolite",
+    "Amazon",
+    "Snapdeal",
+    "MakeMyTrip",
+    "Adobe"
+  ],
+  "platform": "geeksforgeeks",
+  "language": "python",
+  "url": "https://www.geeksforgeeks.org/problems/right-view-of-binary-tree/1",
+  "startedAt": "2026-08-10T12:06:34.493Z",
+  "solvedAt": "2026-08-10T12:07:32.036Z",
+  "activeDurationSeconds": 48,
+  "createdAt": "2026-08-10T12:07:32.106Z",
+  "lastUpdatedAt": "2026-08-10T12:07:32.106Z"
+}
