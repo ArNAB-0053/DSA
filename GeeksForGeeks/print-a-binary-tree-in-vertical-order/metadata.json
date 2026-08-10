@@ -1,0 +1,29 @@
+{
+  "id": "",
+  "title": "Vertical Tree Traversal",
+  "slug": "print-a-binary-tree-in-vertical-order",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree"
+  ],
+  "companies": [
+    "Flipkart",
+    "Accolite",
+    "Amazon",
+    "Microsoft",
+    "MakeMyTrip",
+    "Walmart",
+    "BrowserStack",
+    "Dell",
+    "Grofers",
+    "Netskope"
+  ],
+  "platform": "geeksforgeeks",
+  "language": "python",
+  "url": "https://www.geeksforgeeks.org/problems/print-a-binary-tree-in-vertical-order/1",
+  "startedAt": "2026-08-10T08:38:20.058Z",
+  "solvedAt": "2026-08-10T08:44:42.176Z",
+  "activeDurationSeconds": 296,
+  "createdAt": "2026-08-10T08:44:42.245Z",
+  "lastUpdatedAt": "2026-08-10T08:44:42.245Z"
+}
