@@ -1,0 +1,26 @@
+{
+  "id": "",
+  "title": "Bottom View of Binary Tree",
+  "slug": "bottom-view-of-binary-tree",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree"
+  ],
+  "companies": [
+    "Paytm",
+    "Flipkart",
+    "Accolite",
+    "Amazon",
+    "OYO Rooms",
+    "Walmart",
+    "CouponDunia"
+  ],
+  "platform": "geeksforgeeks",
+  "language": "python",
+  "url": "https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1",
+  "startedAt": "2026-08-10T11:20:51.369Z",
+  "solvedAt": "2026-08-10T11:45:30.575Z",
+  "activeDurationSeconds": 669,
+  "createdAt": "2026-08-10T11:45:30.641Z",
+  "lastUpdatedAt": "2026-08-10T11:45:30.641Z"
+}
