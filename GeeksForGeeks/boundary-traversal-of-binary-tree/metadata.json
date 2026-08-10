@@ -1,0 +1,31 @@
+{
+  "id": "",
+  "title": "Tree Boundary Traversal",
+  "slug": "boundary-traversal-of-binary-tree",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree"
+  ],
+  "companies": [
+    "Flipkart",
+    "Morgan Stanley",
+    "Accolite",
+    "Amazon",
+    "Microsoft",
+    "OYO Rooms",
+    "Samsung",
+    "Snapdeal",
+    "FactSet",
+    "Hike",
+    "Payu",
+    "Kritikal Solutions"
+  ],
+  "platform": "geeksforgeeks",
+  "language": "python",
+  "url": "https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1",
+  "startedAt": "2026-08-10T07:45:52.904Z",
+  "solvedAt": "2026-08-10T08:07:08.841Z",
+  "activeDurationSeconds": 1041,
+  "createdAt": "2026-08-10T08:07:08.907Z",
+  "lastUpdatedAt": "2026-08-10T08:07:08.907Z"
+}
