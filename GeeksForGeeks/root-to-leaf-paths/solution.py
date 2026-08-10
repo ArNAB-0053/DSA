@@ -17,16 +17,16 @@ class Solution:
         if not root: return []
         
         res, temp = [], []
-        def inorder(node):
+        def dfs(node):
             temp.append(node.data)
             
             if self.isLeaf(node):
                 res.append(temp.copy())
             else:
-                if node.left: inorder(node.left)
-                if node.right: inorder(node.right)
+                if node.left: dfs(node.left)
+                if node.right: dfs(node.right)
             temp.pop()
             
             
-        inorder(root)
+        dfs(root)
         return res
