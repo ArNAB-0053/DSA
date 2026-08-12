@@ -1,0 +1,35 @@
+{
+  "id": "",
+  "title": "LCA in  Binary Tree",
+  "slug": "lowest-common-ancestor-in-a-binary-tree",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree"
+  ],
+  "companies": [
+    "Flipkart",
+    "Accolite",
+    "Amazon",
+    "Microsoft",
+    "OYO Rooms",
+    "Snapdeal",
+    "MakeMyTrip",
+    "Payu",
+    "Google",
+    "Times Internet",
+    "Cisco",
+    "PayPal",
+    "Expedia",
+    "Twitter",
+    "American Express",
+    "NPCI"
+  ],
+  "platform": "geeksforgeeks",
+  "language": "python",
+  "url": "https://www.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1",
+  "startedAt": "2026-08-12T07:53:06.218Z",
+  "solvedAt": "2026-08-12T07:58:22.592Z",
+  "activeDurationSeconds": 256,
+  "createdAt": "2026-08-12T07:58:22.679Z",
+  "lastUpdatedAt": "2026-08-12T07:58:22.679Z"
+}
