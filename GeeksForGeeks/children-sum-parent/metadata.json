@@ -1,0 +1,20 @@
+{
+  "id": "",
+  "title": "Children Sum in a Binary Tree",
+  "slug": "children-sum-parent",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree"
+  ],
+  "companies": [
+    "Intuit"
+  ],
+  "platform": "geeksforgeeks",
+  "language": "python",
+  "url": "https://www.geeksforgeeks.org/problems/children-sum-parent/1",
+  "startedAt": "2026-08-12T11:12:48.672Z",
+  "solvedAt": "2026-08-12T11:35:09.232Z",
+  "activeDurationSeconds": 1212,
+  "createdAt": "2026-08-12T11:35:09.303Z",
+  "lastUpdatedAt": "2026-08-12T11:35:09.303Z"
+}
