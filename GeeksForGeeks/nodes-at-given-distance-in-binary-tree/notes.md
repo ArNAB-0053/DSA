@@ -1,3 +1,6 @@
-# Notes
+go to -> https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/
+for detailed breakdown
 
-Add your revision notes here.
+OR
+
+in leetcode folder search `leetcode - 863` for notes
