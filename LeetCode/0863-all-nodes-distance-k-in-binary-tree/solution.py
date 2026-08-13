@@ -64,35 +64,82 @@ from collections import defaultdict, deque
 # 1. create an adjacency list but store it like an unordered graph, means parent will store child as well as child will store parent
 # 2. try to create a graph from adjacency list
 # 3. as we only care about kth nodes so build only upto kth phase and return the last queue values
+# class Solution:
+#     def distanceK(self, root: TreeNode, target: TreeNode, k: int) -> List[int]:
+#         adj = defaultdict(list)
+        
+#         # Tree DFS
+#         # creating adjacency list
+#         def dfs(root):
+#             if not root: return
+
+#             if root.left:
+#                 adj[root.left.val].append(root.val)
+#                 adj[root.val].append(root.left.val)
+#                 dfs(root.left)
+
+#             if root.right:
+#                 adj[root.right.val].append(root.val)
+#                 adj[root.val].append(root.right.val)
+#                 dfs(root.right)
+#         # fn call
+#         dfs(root)
+        
+#         # Graph BFS
+#         q = deque([target.val])
+#         vis = {target.val}
+#         d = 0
+#         while q and d < k:
+#             for _ in range(len(q)):
+#                 node = q.popleft()
+#                 for it in adj[node]:
+#                     if it not in vis:
+#                         vis.add(it)
+#                         q.append(it)
+
+#             d += 1
+
+#         return list(q)
+
+# -----------------------------------------------------------------
+# Third Approach: Only store parent -> child
+# -----------------------------------------------------------------
 class Solution:
     def distanceK(self, root: TreeNode, target: TreeNode, k: int) -> List[int]:
-        adj = defaultdict(list)
- 
-        def dfs(root):
-            if not root: return
+        parents = {}
 
-            if root.left:
-                adj[root.left.val].append(root.val)
-                adj[root.val].append(root.left.val)
-                dfs(root.left)
-
-            if root.right:
-                adj[root.right.val].append(root.val)
-                adj[root.val].append(root.right.val)
-                dfs(root.right)
+        # parent dict creating funtion   
+        def dfs(node, parent = None):
+            if not node: return
+            parents[node] = parent
+            if node.left: dfs(node.left, node)
+            if node.right: dfs(node.right, node)
+        
+        # fn call
         dfs(root)
         
-        q = deque([target.val])
-        vis = {target.val}
-        d = 0
-        while q and d < k:
+        # actual BFS (same as BFS on graph)
+        q = deque([target])
+        vis = {target}
+        d = 0 # distance
+        while q:
+            if d == k:
+                return [node.val for node in q]
+
             for _ in range(len(q)):
                 node = q.popleft()
-                for it in adj[node]:
-                    if it not in vis:
-                        vis.add(it)
-                        q.append(it)
+
+                neighbors = [
+                    node.left,
+                    node.right,
+                    parents[node]
+                ]
+
+                for neighbor in neighbors:
+                    if neighbor and neighbor not in vis:
+                        vis.add(neighbor)
+                        q.append(neighbor)
 
             d += 1
 
-        return list(q)
+        return []
