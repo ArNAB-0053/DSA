@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "title": "Burning Tree",
+  "slug": "burning-tree",
+  "difficulty": "Hard",
+  "topics": [
+    "Tree",
+    "BFS"
+  ],
+  "companies": [
+    "Flipkart",
+    "Amazon",
+    "Microsoft",
+    "Adobe",
+    "NPCI"
+  ],
+  "platform": "geeksforgeeks",
+  "language": "python",
+  "url": "https://www.geeksforgeeks.org/problems/burning-tree/1",
+  "startedAt": "2026-08-14T07:46:49.912Z",
+  "solvedAt": "2026-08-14T08:44:35.477Z",
+  "activeDurationSeconds": 2062,
+  "createdAt": "2026-08-14T08:44:35.545Z",
+  "lastUpdatedAt": "2026-08-14T08:44:35.545Z"
+}
