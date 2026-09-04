@@ -1,0 +1,22 @@
+{
+  "id": "",
+  "title": "Inorder Traversal",
+  "slug": "inorder-traversal",
+  "difficulty": "Basic",
+  "topics": [
+    "Tree"
+  ],
+  "companies": [
+    "Amazon",
+    "Snapdeal",
+    "Adobe"
+  ],
+  "platform": "geeksforgeeks",
+  "language": "python",
+  "url": "https://www.geeksforgeeks.org/problems/inorder-traversal/1",
+  "startedAt": "2026-09-04T14:51:59.738Z",
+  "solvedAt": "2026-09-04T15:07:17.550Z",
+  "activeDurationSeconds": 734,
+  "createdAt": "2026-09-04T15:07:17.636Z",
+  "lastUpdatedAt": "2026-09-04T15:07:17.636Z"
+}
