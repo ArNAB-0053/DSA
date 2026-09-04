@@ -1,0 +1,22 @@
+{
+  "id": "0297",
+  "title": "Serialize and Deserialize Binary Tree",
+  "slug": "serialize-and-deserialize-binary-tree",
+  "difficulty": "Hard",
+  "topics": [
+    "String",
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Design",
+    "Binary Tree"
+  ],
+  "platform": "leetcode",
+  "language": "python3",
+  "url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
+  "startedAt": "2026-09-04T08:22:25.765Z",
+  "solvedAt": "2026-09-04T08:26:17.632Z",
+  "activeDurationSeconds": 58,
+  "createdAt": "2026-09-04T08:26:17.647Z",
+  "lastUpdatedAt": "2026-09-04T08:26:17.647Z"
+}
