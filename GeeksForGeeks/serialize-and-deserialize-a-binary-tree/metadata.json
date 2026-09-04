@@ -1,0 +1,31 @@
+{
+  "id": "",
+  "title": "Serialize and Deserialize a Binary Tree",
+  "slug": "serialize-and-deserialize-a-binary-tree",
+  "difficulty": "Hard",
+  "topics": [
+    "Tree"
+  ],
+  "companies": [
+    "Paytm",
+    "Flipkart",
+    "Accolite",
+    "Amazon",
+    "Microsoft",
+    "MAQ Software",
+    "Adobe",
+    "Linkedin",
+    "Quikr",
+    "Yahoo",
+    "InMobi",
+    "NPCI"
+  ],
+  "platform": "geeksforgeeks",
+  "language": "python",
+  "url": "https://www.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1",
+  "startedAt": "2026-09-04T07:37:11.017Z",
+  "solvedAt": "2026-09-04T08:26:29.169Z",
+  "activeDurationSeconds": 1699,
+  "createdAt": "2026-09-04T08:26:29.171Z",
+  "lastUpdatedAt": "2026-09-04T08:26:29.171Z"
+}
