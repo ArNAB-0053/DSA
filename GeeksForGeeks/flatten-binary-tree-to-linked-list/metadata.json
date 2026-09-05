@@ -1,0 +1,21 @@
+{
+  "id": "",
+  "title": "Flatten Binary Tree to Linked List",
+  "slug": "flatten-binary-tree-to-linked-list",
+  "difficulty": "Medium",
+  "topics": [
+    "Linked List",
+    "Tree"
+  ],
+  "companies": [
+    "Microsoft"
+  ],
+  "platform": "geeksforgeeks",
+  "language": "python",
+  "url": "https://www.geeksforgeeks.org/problems/flatten-binary-tree-to-linked-list/1",
+  "startedAt": "2026-09-05T06:34:17.683Z",
+  "solvedAt": "2026-09-05T08:06:13.627Z",
+  "activeDurationSeconds": 5998,
+  "createdAt": "2026-09-05T08:04:50.203Z",
+  "lastUpdatedAt": "2026-09-05T08:06:13.679Z"
+}
