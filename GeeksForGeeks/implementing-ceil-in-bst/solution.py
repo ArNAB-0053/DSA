@@ -9,28 +9,44 @@ class Node:
         
 class Solution:
     def findCeil(self,root, x):
-        if not root: return
-        ceil = 9999
+        ## Complicated 
+        ## Not optimal
+        # if not root: return -1
+        # ceil = 9999
         
-        def func(root):
-            nonlocal ceil
-            if not root: return
+        # def func(root):
+        #     nonlocal ceil
+        #     if not root: return
         
-            if x == root.data:
-                ceil = root.data
-                return
+        #     if x == root.data:
+        #         ceil = root.data
+        #         return
             
-            if ceil > root.data and root.data > x:
-                ceil = root.data
+        #     if ceil > root.data and root.data > x:
+        #         ceil = root.data
             
-            if x < root.data and root.left:
-                func(root.left)
-            elif x > root.data and root.right: 
-                func(root.right)
+        #     if x < root.data and root.left:
+        #         func(root.left)
+        #     elif x > root.data and root.right: 
+        #         func(root.right)
         
-        func(root)
+        # func(root)
         
-        if ceil == 9999: return -1
+        # if ceil == 9999: return -1
+        # return ceil
+        
+        
+        ## Optimal + Simple
+        ceil = -1
+        
+        while root:
+            if root.data == x: return x
+            
+            if root.data < x:
+                root = root.right
+            else:
+                ceil = root.data
+                root = root.left
+        
         return ceil
-            
         
