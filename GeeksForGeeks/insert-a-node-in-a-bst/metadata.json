@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "title": "BST Insert",
+  "slug": "insert-a-node-in-a-bst",
+  "difficulty": "Easy",
+  "topics": [
+    "Binary Search Tree",
+    "Design-Pattern"
+  ],
+  "companies": [
+    "Paytm",
+    "Accolite",
+    "Amazon",
+    "Microsoft",
+    "Samsung"
+  ],
+  "platform": "geeksforgeeks",
+  "language": "python",
+  "url": "https://www.geeksforgeeks.org/problems/insert-a-node-in-a-bst/1",
+  "startedAt": "2026-09-06T06:06:49.891Z",
+  "solvedAt": "2026-09-06T06:13:30.258Z",
+  "activeDurationSeconds": 343,
+  "createdAt": "2026-09-06T06:13:30.317Z",
+  "lastUpdatedAt": "2026-09-06T06:13:30.317Z"
+}
