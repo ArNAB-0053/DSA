@@ -1,0 +1,19 @@
+{
+  "id": "",
+  "title": "Floor in BST",
+  "slug": "closest-neighbor-in-bst",
+  "difficulty": "Easy",
+  "topics": [
+    "Binary Search Tree",
+    "Tree"
+  ],
+  "companies": [],
+  "platform": "geeksforgeeks",
+  "language": "python",
+  "url": "https://www.geeksforgeeks.org/problems/closest-neighbor-in-bst/1",
+  "startedAt": "2026-09-06T05:58:09.730Z",
+  "solvedAt": "2026-09-06T06:01:45.641Z",
+  "activeDurationSeconds": 207,
+  "createdAt": "2026-09-06T06:01:45.697Z",
+  "lastUpdatedAt": "2026-09-06T06:01:45.697Z"
+}
