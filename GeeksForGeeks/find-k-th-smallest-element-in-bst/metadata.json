@@ -1,0 +1,22 @@
+{
+  "id": "",
+  "title": "k-th Smallest in BST",
+  "slug": "find-k-th-smallest-element-in-bst",
+  "difficulty": "Medium",
+  "topics": [
+    "Binary Search Tree"
+  ],
+  "companies": [
+    "Accolite",
+    "Amazon",
+    "Google"
+  ],
+  "platform": "geeksforgeeks",
+  "language": "python",
+  "url": "https://www.geeksforgeeks.org/problems/find-k-th-smallest-element-in-bst/1",
+  "startedAt": "2026-09-06T15:11:28.063Z",
+  "solvedAt": "2026-09-06T15:27:35.385Z",
+  "activeDurationSeconds": 924,
+  "createdAt": "2026-09-06T15:27:35.445Z",
+  "lastUpdatedAt": "2026-09-06T15:27:35.445Z"
+}
