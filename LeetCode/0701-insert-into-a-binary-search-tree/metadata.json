@@ -1,0 +1,19 @@
+{
+  "id": "0701",
+  "title": "Insert into a Binary Search Tree",
+  "slug": "insert-into-a-binary-search-tree",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "platform": "leetcode",
+  "language": "python3",
+  "url": "https://leetcode.com/problems/insert-into-a-binary-search-tree/",
+  "startedAt": "2026-09-06T06:14:07.209Z",
+  "solvedAt": "2026-09-06T06:17:58.537Z",
+  "activeDurationSeconds": 226,
+  "createdAt": "2026-09-06T06:17:58.578Z",
+  "lastUpdatedAt": "2026-09-06T06:17:58.578Z"
+}
