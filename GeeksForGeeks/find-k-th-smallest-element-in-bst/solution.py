@@ -9,17 +9,22 @@ class Node:
 
 class Solution:
     def kthSmallest(self, root, k): 
-        ans, itr = -1, 0
+        itr = 0
         def inorder(root):
-            nonlocal ans, itr
-            if not root or ans != -1: return
+            nonlocal itr
+            if not root: return None
             
-            inorder(root.left)
+            left = inorder(root.left)
+            
+            if left is not None: return left
+            
             itr += 1
             if itr == k:
-                ans = root.data
-                return
-            inorder(root.right)
+                return root.data
+                
+            return inorder(root.right)
             
-        inorder(root)
-        return ans
+        ans = inorder(root)
+        
+        if ans is not None: return ans
+        return -1
