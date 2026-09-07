@@ -8,11 +8,28 @@ class Node:
 '''
 class Solution:
     def findLCA(self, root: 'Node', n1: 'Node', n2: 'Node') -> 'Node':
-        if n1.data > root.data and n2.data > root.data:
-            return self.findLCA(root.right, n1, n2)
+        # USING RECURSIVE APPROACH
+        
+        # if n1.data > root.data and n2.data > root.data:
+        #     return self.findLCA(root.right, n1, n2)
             
-        elif n1.data < root.data and n2.data < root.data:
-            return self.findLCA(root.left, n1, n2)
+        # elif n1.data < root.data and n2.data < root.data:
+        #     return self.findLCA(root.left, n1, n2)
             
-        return root
+        # return root
+        
+        # USING WHILE LOOP
+        curr = root
+        
+        while root:
+            if n1.data < root.data and n2.data < root.data:
+                root = root.left
+                
+            elif n1.data > root.data and n2.data > root.data:
+                root = root.right
+                
+            else:
+                return root
+                
+        return None
         
