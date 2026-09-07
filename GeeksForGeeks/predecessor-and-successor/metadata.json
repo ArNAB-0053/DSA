@@ -1,0 +1,22 @@
+{
+  "id": "",
+  "title": "Predecessor and Successor in BST",
+  "slug": "predecessor-and-successor",
+  "difficulty": "Medium",
+  "topics": [
+    "Binary Search Tree",
+    "Tree"
+  ],
+  "companies": [
+    "Ola Cabs",
+    "NPCI"
+  ],
+  "platform": "geeksforgeeks",
+  "language": "python",
+  "url": "https://www.geeksforgeeks.org/problems/predecessor-and-successor/1",
+  "startedAt": "2026-09-07T13:37:40.344Z",
+  "solvedAt": "2026-09-07T14:34:32.603Z",
+  "activeDurationSeconds": 2154,
+  "createdAt": "2026-09-07T14:34:32.664Z",
+  "lastUpdatedAt": "2026-09-07T14:34:32.664Z"
+}
