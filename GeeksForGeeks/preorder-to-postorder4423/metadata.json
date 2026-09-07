@@ -1,0 +1,24 @@
+{
+  "id": "",
+  "title": "Preorder to BST",
+  "slug": "preorder-to-postorder4423",
+  "difficulty": "Medium",
+  "topics": [
+    "Stack",
+    "Binary Search Tree",
+    "Tree"
+  ],
+  "companies": [
+    "Flipkart",
+    "Amazon",
+    "Linkedin"
+  ],
+  "platform": "geeksforgeeks",
+  "language": "python",
+  "url": "https://www.geeksforgeeks.org/problems/preorder-to-postorder4423/1",
+  "startedAt": "2026-09-07T13:36:17.861Z",
+  "solvedAt": "2026-09-07T13:37:11.609Z",
+  "activeDurationSeconds": 44,
+  "createdAt": "2026-09-07T13:37:11.703Z",
+  "lastUpdatedAt": "2026-09-07T13:37:11.703Z"
+}
