@@ -21,15 +21,19 @@ class Solution:
             elif curr.data < key:
                 pred = curr
                 curr = curr.right
+            # when both are equal -
+            # we know the answer will be max from left side and min from right.
             else:
                 left = curr.left
                 right = curr.right
                 
                 while left is not None:
                     pred = left
+                    # the max value will always be on right 
                     left = left.right
                 while right is not None:
                     succ = right
+                    # the min value will always be on left 
                     right = right.left
                 
                 break
