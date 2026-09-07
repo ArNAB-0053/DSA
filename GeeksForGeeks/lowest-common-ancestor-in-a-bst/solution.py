@@ -8,7 +8,13 @@ class Node:
 '''
 class Solution:
     def findLCA(self, root: 'Node', n1: 'Node', n2: 'Node') -> 'Node':
+        # -----------------------------------
         # USING RECURSIVE APPROACH
+        # -----------------------------------
+        # TC: O(h) - best/average case
+        #     O(n) - worst case
+        # SC: O(h) - if considering recursion stack space
+        #     O(1) - if not considering that
         
         # if n1.data > root.data and n2.data > root.data:
         #     return self.findLCA(root.right, n1, n2)
@@ -18,18 +24,24 @@ class Solution:
             
         # return root
         
+        # -----------------------------------
         # USING WHILE LOOP
+        # -----------------------------------
+        # TC: O(h) - best/average case
+        #     O(n) - worst case
+        # SC: O(1)
+        
         curr = root
         
-        while root:
-            if n1.data < root.data and n2.data < root.data:
-                root = root.left
+        while curr:
+            if n1.data < curr.data and n2.data < curr.data:
+                curr = curr.left
                 
-            elif n1.data > root.data and n2.data > root.data:
-                root = root.right
+            elif n1.data > curr.data and n2.data > curr.data:
+                curr = curr.right
                 
             else:
-                return root
+                return curr
                 
         return None
         
