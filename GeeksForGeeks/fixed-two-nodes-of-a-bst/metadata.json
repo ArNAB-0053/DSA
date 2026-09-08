@@ -1,0 +1,26 @@
+{
+  "id": "",
+  "title": "Fixing Two Nodes of BST",
+  "slug": "fixed-two-nodes-of-a-bst",
+  "difficulty": "Hard",
+  "topics": [
+    "Binary Search Tree"
+  ],
+  "companies": [
+    "Amazon",
+    "Microsoft",
+    "FactSet",
+    "Walmart",
+    "BankBazaar",
+    "NPCI",
+    "Paytm"
+  ],
+  "platform": "geeksforgeeks",
+  "language": "python",
+  "url": "https://www.geeksforgeeks.org/problems/fixed-two-nodes-of-a-bst/1",
+  "startedAt": "2026-09-08T14:40:28.710Z",
+  "solvedAt": "2026-09-08T14:42:08.902Z",
+  "activeDurationSeconds": 100,
+  "createdAt": "2026-09-08T14:42:08.963Z",
+  "lastUpdatedAt": "2026-09-08T14:42:08.963Z"
+}
