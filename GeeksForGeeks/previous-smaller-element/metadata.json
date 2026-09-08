@@ -1,0 +1,19 @@
+{
+  "id": "",
+  "title": "Previous Smaller Element",
+  "slug": "previous-smaller-element",
+  "difficulty": "Medium",
+  "topics": [
+    "Stack",
+    "Arrays"
+  ],
+  "companies": [],
+  "platform": "geeksforgeeks",
+  "language": "python",
+  "url": "https://www.geeksforgeeks.org/problems/previous-smaller-element/1",
+  "startedAt": "2026-09-08T17:59:18.309Z",
+  "solvedAt": "2026-09-08T18:04:10.218Z",
+  "activeDurationSeconds": 285,
+  "createdAt": "2026-09-08T18:04:10.279Z",
+  "lastUpdatedAt": "2026-09-08T18:04:10.279Z"
+}
