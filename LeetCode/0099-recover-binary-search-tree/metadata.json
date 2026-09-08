@@ -1,0 +1,20 @@
+{
+  "id": "0099",
+  "title": "Recover Binary Search Tree",
+  "slug": "recover-binary-search-tree",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "platform": "leetcode",
+  "language": "python3",
+  "url": "https://leetcode.com/problems/recover-binary-search-tree/",
+  "startedAt": "2026-09-08T13:54:27.896Z",
+  "solvedAt": "2026-09-08T14:39:51.692Z",
+  "activeDurationSeconds": 2000,
+  "createdAt": "2026-09-08T14:39:51.714Z",
+  "lastUpdatedAt": "2026-09-08T14:39:51.714Z"
+}
