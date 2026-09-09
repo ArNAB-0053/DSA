@@ -1,0 +1,17 @@
+{
+  "id": "3871",
+  "title": "Count Commas in Range II",
+  "slug": "count-commas-in-range-ii",
+  "difficulty": "Medium",
+  "topics": [
+    "Math"
+  ],
+  "platform": "leetcode",
+  "language": "python3",
+  "url": "https://leetcode.com/problems/count-commas-in-range-ii/",
+  "startedAt": "2026-09-09T06:41:50.108Z",
+  "solvedAt": "2026-09-09T06:46:04.215Z",
+  "activeDurationSeconds": 197,
+  "createdAt": "2026-09-09T06:46:04.229Z",
+  "lastUpdatedAt": "2026-09-09T06:46:04.229Z"
+}
