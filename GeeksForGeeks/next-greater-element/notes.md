@@ -1,3 +1,1 @@
-# Notes
-
-Add your revision notes here.
+Monotonic Stack
