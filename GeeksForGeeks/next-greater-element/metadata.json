@@ -1,0 +1,22 @@
+{
+  "id": "",
+  "title": "Next Greater in Circular Array",
+  "slug": "next-greater-element",
+  "difficulty": "Medium",
+  "topics": [
+    "Stack"
+  ],
+  "companies": [
+    "Flipkart",
+    "Amazon",
+    "Microsoft"
+  ],
+  "platform": "geeksforgeeks",
+  "language": "python",
+  "url": "https://www.geeksforgeeks.org/problems/next-greater-element/1",
+  "startedAt": "2026-09-14T11:58:28.245Z",
+  "solvedAt": "2026-09-14T12:01:45.259Z",
+  "activeDurationSeconds": 175,
+  "createdAt": "2026-09-14T12:01:45.341Z",
+  "lastUpdatedAt": "2026-09-14T12:01:45.341Z"
+}
