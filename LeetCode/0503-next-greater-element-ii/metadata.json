@@ -1,0 +1,19 @@
+{
+  "id": "0503",
+  "title": "Next Greater Element II",
+  "slug": "next-greater-element-ii",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Stack",
+    "Monotonic Stack"
+  ],
+  "platform": "leetcode",
+  "language": "python3",
+  "url": "https://leetcode.com/problems/next-greater-element-ii/",
+  "startedAt": "2026-09-14T11:47:10.026Z",
+  "solvedAt": "2026-09-14T12:03:59.693Z",
+  "activeDurationSeconds": 626,
+  "createdAt": "2026-09-14T12:03:59.704Z",
+  "lastUpdatedAt": "2026-09-14T12:03:59.704Z"
+}
