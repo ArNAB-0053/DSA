@@ -8,7 +8,7 @@ class Solution:
     ## sum of subarray maximums : 
     # - https://www.geeksforgeeks.org/problems/sum-of-max-of-subarrays/1
     
-    # One Code optimization can be make - that is instead of 4 helpers, only use 2 
+    # One Code optimization can be make - that is instead of 4 helpers, only use 2, 
     # one for minimums and another for maximums, overall complexity will be same,
     # but just be a code optimization.
 
