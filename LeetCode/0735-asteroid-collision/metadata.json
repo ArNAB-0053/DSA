@@ -1,0 +1,19 @@
+{
+  "id": "0735",
+  "title": "Asteroid Collision",
+  "slug": "asteroid-collision",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Stack",
+    "Simulation"
+  ],
+  "platform": "leetcode",
+  "language": "python3",
+  "url": "https://leetcode.com/problems/asteroid-collision/",
+  "startedAt": "2026-09-16T07:51:55.638Z",
+  "solvedAt": "2026-09-16T08:44:51.670Z",
+  "activeDurationSeconds": 2171,
+  "createdAt": "2026-09-16T08:44:51.804Z",
+  "lastUpdatedAt": "2026-09-16T08:44:51.804Z"
+}
