@@ -1,0 +1,19 @@
+{
+  "id": "",
+  "title": "Sum of Max of Subarrays",
+  "slug": "sum-of-max-of-subarrays",
+  "difficulty": "Hard",
+  "topics": [
+    "Stack",
+    "Arrays"
+  ],
+  "companies": [],
+  "platform": "geeksforgeeks",
+  "language": "python",
+  "url": "https://www.geeksforgeeks.org/problems/sum-of-max-of-subarrays/1",
+  "startedAt": "2026-09-16T07:03:26.971Z",
+  "solvedAt": "2026-09-16T07:12:53.041Z",
+  "activeDurationSeconds": 348,
+  "createdAt": "2026-09-16T07:12:53.121Z",
+  "lastUpdatedAt": "2026-09-16T07:12:53.121Z"
+}
