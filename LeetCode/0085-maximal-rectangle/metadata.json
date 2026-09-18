@@ -1,0 +1,21 @@
+{
+  "id": "0085",
+  "title": "Maximal Rectangle",
+  "slug": "maximal-rectangle",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Stack",
+    "Matrix",
+    "Monotonic Stack"
+  ],
+  "platform": "leetcode",
+  "language": "python3",
+  "url": "https://leetcode.com/problems/maximal-rectangle/",
+  "startedAt": "2026-09-18T13:12:01.472Z",
+  "solvedAt": "2026-09-18T14:57:20.691Z",
+  "activeDurationSeconds": 3848,
+  "createdAt": "2026-09-18T14:57:20.708Z",
+  "lastUpdatedAt": "2026-09-18T14:57:20.708Z"
+}
