@@ -1,0 +1,29 @@
+{
+  "id": "",
+  "title": "Max  Rectangle",
+  "slug": "max-rectangle",
+  "difficulty": "Hard",
+  "topics": [
+    "Dynamic Programming",
+    "Stack",
+    "Matrix"
+  ],
+  "companies": [
+    "Flipkart",
+    "Amazon",
+    "Microsoft",
+    "Samsung",
+    "MakeMyTrip",
+    "Directi",
+    "Intuit",
+    "Google"
+  ],
+  "platform": "geeksforgeeks",
+  "language": "python",
+  "url": "https://www.geeksforgeeks.org/problems/max-rectangle/1",
+  "startedAt": "2026-09-18T14:20:01.146Z",
+  "solvedAt": "2026-09-18T15:00:24.943Z",
+  "activeDurationSeconds": 1060,
+  "createdAt": "2026-09-18T15:00:24.945Z",
+  "lastUpdatedAt": "2026-09-18T15:00:24.945Z"
+}
