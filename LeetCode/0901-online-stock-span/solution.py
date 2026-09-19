@@ -1,7 +1,7 @@
 class StockSpanner:
 
     def __init__(self):
-        self.stack = []
+        self.stack = [] # (price, count)
 
     def next(self, price: int) -> int:
         cnt = 1
