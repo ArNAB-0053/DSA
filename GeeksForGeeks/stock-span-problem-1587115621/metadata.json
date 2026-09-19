@@ -1,0 +1,27 @@
+{
+  "id": "",
+  "title": "Stock Span Problem",
+  "slug": "stock-span-problem-1587115621",
+  "difficulty": "Medium",
+  "topics": [
+    "Arrays",
+    "Stack"
+  ],
+  "companies": [
+    "Flipkart",
+    "Accolite",
+    "Amazon",
+    "Microsoft",
+    "Samsung",
+    "Adobe",
+    "NPCI"
+  ],
+  "platform": "geeksforgeeks",
+  "language": "python",
+  "url": "https://www.geeksforgeeks.org/problems/stock-span-problem-1587115621/1",
+  "startedAt": "2026-09-19T12:57:38.978Z",
+  "solvedAt": "2026-09-19T13:04:22.754Z",
+  "activeDurationSeconds": 367,
+  "createdAt": "2026-09-19T13:04:22.810Z",
+  "lastUpdatedAt": "2026-09-19T13:04:22.810Z"
+}
