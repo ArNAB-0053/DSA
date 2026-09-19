@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "title": "Remove K Digits",
+  "slug": "remove-k-digits",
+  "difficulty": "Medium",
+  "topics": [
+    "Stack",
+    "Greedy",
+    "Deque"
+  ],
+  "companies": [
+    "Microsoft",
+    "NPCI"
+  ],
+  "platform": "geeksforgeeks",
+  "language": "python",
+  "url": "https://www.geeksforgeeks.org/problems/remove-k-digits/1",
+  "startedAt": "2026-09-19T05:53:23.576Z",
+  "solvedAt": "2026-09-19T06:55:52.884Z",
+  "activeDurationSeconds": 5723,
+  "createdAt": "2026-09-19T06:55:04.001Z",
+  "lastUpdatedAt": "2026-09-19T06:55:52.891Z"
+}
