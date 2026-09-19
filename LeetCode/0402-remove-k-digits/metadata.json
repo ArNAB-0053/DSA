@@ -1,0 +1,20 @@
+{
+  "id": "0402",
+  "title": "Remove K Digits",
+  "slug": "remove-k-digits",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Stack",
+    "Greedy",
+    "Monotonic Stack"
+  ],
+  "platform": "leetcode",
+  "language": "python3",
+  "url": "https://leetcode.com/problems/remove-k-digits/",
+  "startedAt": "2026-09-19T05:53:23.576Z",
+  "solvedAt": "2026-09-19T06:55:03.973Z",
+  "activeDurationSeconds": 2844,
+  "createdAt": "2026-09-19T06:55:04.001Z",
+  "lastUpdatedAt": "2026-09-19T06:55:04.001Z"
+}
