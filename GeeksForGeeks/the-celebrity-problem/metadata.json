@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "title": "Celebrity Problem",
+  "slug": "the-celebrity-problem",
+  "difficulty": "Medium",
+  "topics": [
+    "Arrays",
+    "Stack",
+    "two-pointer-algorithm"
+  ],
+  "companies": [
+    "Zoho",
+    "Flipkart",
+    "Amazon",
+    "Microsoft",
+    "Google",
+    "Fab.com",
+    "One97",
+    "United Health Group",
+    "NPCI"
+  ],
+  "platform": "geeksforgeeks",
+  "language": "python",
+  "url": "https://www.geeksforgeeks.org/problems/the-celebrity-problem/1",
+  "startedAt": "2026-09-25T07:01:47.720Z",
+  "solvedAt": "2026-09-25T07:36:42.777Z",
+  "activeDurationSeconds": 1573,
+  "createdAt": "2026-09-25T07:36:42.901Z",
+  "lastUpdatedAt": "2026-09-25T07:36:42.901Z"
+}
