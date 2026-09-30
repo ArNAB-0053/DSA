@@ -1,0 +1,18 @@
+{
+  "id": "3904",
+  "title": "Smallest Stable Index II",
+  "slug": "smallest-stable-index-ii",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Prefix Sum"
+  ],
+  "platform": "leetcode",
+  "language": "python3",
+  "url": "https://leetcode.com/problems/smallest-stable-index-ii/",
+  "startedAt": "2026-09-30T06:45:02.215Z",
+  "solvedAt": "2026-09-30T06:53:03.967Z",
+  "activeDurationSeconds": 357,
+  "createdAt": "2026-09-30T06:53:03.980Z",
+  "lastUpdatedAt": "2026-09-30T06:53:03.980Z"
+}
