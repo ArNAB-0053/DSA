@@ -1,3 +1,4 @@
-# Notes
-
-Add your revision notes here.
+Using DP
+- Recursion + Memoization
+- Tabulation
+- Space optimization
