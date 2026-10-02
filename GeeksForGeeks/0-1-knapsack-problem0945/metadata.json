@@ -1,0 +1,31 @@
+{
+  "id": "",
+  "title": "0 - 1 Knapsack Problem",
+  "slug": "0-1-knapsack-problem0945",
+  "difficulty": "Medium",
+  "topics": [
+    "Dynamic Programming"
+  ],
+  "companies": [
+    "Flipkart",
+    "Morgan Stanley",
+    "Amazon",
+    "Microsoft",
+    "Snapdeal",
+    "Oracle",
+    "Payu",
+    "Visa",
+    "Directi",
+    "GreyOrange",
+    "Mobicip",
+    "NPCI"
+  ],
+  "platform": "geeksforgeeks",
+  "language": "python",
+  "url": "https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1",
+  "startedAt": "2026-10-02T05:46:57.703Z",
+  "solvedAt": "2026-10-02T06:30:51.456Z",
+  "activeDurationSeconds": 1657,
+  "createdAt": "2026-10-02T06:30:51.567Z",
+  "lastUpdatedAt": "2026-10-02T06:30:51.567Z"
+}
