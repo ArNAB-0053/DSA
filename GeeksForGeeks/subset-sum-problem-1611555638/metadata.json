@@ -1,0 +1,21 @@
+{
+  "id": "",
+  "title": "Subset Sum Problem",
+  "slug": "subset-sum-problem-1611555638",
+  "difficulty": "Medium",
+  "topics": [
+    "Dynamic Programming"
+  ],
+  "companies": [
+    "Amazon",
+    "Microsoft"
+  ],
+  "platform": "geeksforgeeks",
+  "language": "python",
+  "url": "https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1",
+  "startedAt": "2026-10-03T05:25:21.119Z",
+  "solvedAt": "2026-10-03T06:16:37.773Z",
+  "activeDurationSeconds": 1229,
+  "createdAt": "2026-10-03T06:16:37.879Z",
+  "lastUpdatedAt": "2026-10-03T06:16:37.879Z"
+}
