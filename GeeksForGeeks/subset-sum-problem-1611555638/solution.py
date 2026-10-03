@@ -23,9 +23,10 @@ class Solution:
         # USING 1D ARRAY
         # ------------------------------------------
         # OBSERVATION:
-        # to contruct the answer dp[i][j], it only needs previous i and
-        # 
-        # so we can reduce 2D matrix to a 1D array
+        # dp[i][j] only depends on prevous i and changing j
+        # means i not actually not changing weird way, and if we can track the
+        # previous i that will be enough and don't have to store it.
+        # so, we can reduce 2D matrix to a 1D array
         
         dp = [False] * (summ + 1)
         dp[0] = True
