@@ -11,6 +11,12 @@ class Solution:
         # dp[0] = 0
         # # there is not other way to reach index 1 except from 0th index
         # dp[1] = abs(height[1] - height[0]) 
+        
+        ### ------------------------------
+        ### Recursion + Memoization
+        ### TC: O(N)
+        ### SC: O(N) + O(N) -> O(N)
+        ### ------------------------------
         # # def solve(n):
         # #     # early return
         # #     if dp[n] != -1:
@@ -25,6 +31,10 @@ class Solution:
         # # solve(n)
         # # return dp[n]
         
+        ### ------------------------------
+        ### Tabulation
+        ### TC/SC: O(N)
+        ### ------------------------------
         # for i in range(2, n+1):
         #     if dp[i] == -1:
         #         dp[i] = min(
@@ -32,6 +42,15 @@ class Solution:
         #             dp[i-2] + abs(height[i] - height[i-2])
         #         )
         # return dp[n]
+        
+        ### ------------------------------
+        ### SPACE OPTIMIZATION
+        ### TC: O(N)
+        ### SC: O(1)
+        ### ------------------------------
+        # if we observe then we can see that -
+        # we need the record of only previous and previous-of-previous 
+        # element
         
         pprev, prev = 0, abs(height[1] - height[0]) 
         for i in range(2, n+1):
