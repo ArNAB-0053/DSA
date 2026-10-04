@@ -26,7 +26,8 @@ class Solution:
         # return dp[n]
         
         for i in range(2, n+1):
-            dp[i] = min(
+            if dp[i] == -1:
+                dp[i] = min(
                     dp[i-1] + abs(height[i] - height[i-1]),
                     dp[i-2] + abs(height[i] - height[i-2])
                 )
