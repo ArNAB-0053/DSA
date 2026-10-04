@@ -10,9 +10,12 @@ class Solution:
             jump1 = solve(n-1) + abs(height[n] - height[n-1])
             if n < 2:
                 dp[n] = jump1
-            jump2 = solve(n-2) + abs(height[n] - height[n-2])
-            dp[n] = min(jump1, jump2)
+            else:
+                jump2 = solve(n-2) + abs(height[n] - height[n-2])
+                dp[n] = min(jump1, jump2)
             return dp[n]
         solve(n)
         return dp[n]
         
+        # for i in range(1, n+1):
+        #     if 
