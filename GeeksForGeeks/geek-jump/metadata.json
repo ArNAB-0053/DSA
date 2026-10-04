@@ -1,0 +1,19 @@
+{
+  "id": "",
+  "title": "Frog Jump",
+  "slug": "geek-jump",
+  "difficulty": "Medium",
+  "topics": [
+    "Dynamic Programming",
+    "Arrays"
+  ],
+  "companies": [],
+  "platform": "geeksforgeeks",
+  "language": "python",
+  "url": "https://www.geeksforgeeks.org/problems/geek-jump/1",
+  "startedAt": "2026-10-02T04:23:04.345Z",
+  "solvedAt": "2026-10-04T05:06:52.615Z",
+  "activeDurationSeconds": 908,
+  "createdAt": "2026-10-04T05:06:52.721Z",
+  "lastUpdatedAt": "2026-10-04T05:06:52.721Z"
+}
