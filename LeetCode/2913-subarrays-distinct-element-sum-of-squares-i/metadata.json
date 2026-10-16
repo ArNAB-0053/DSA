@@ -1,0 +1,20 @@
+{
+  "id": "2913",
+  "title": "Subarrays Distinct Element Sum of Squares I",
+  "slug": "subarrays-distinct-element-sum-of-squares-i",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Binary Indexed Tree",
+    "Segment Tree"
+  ],
+  "platform": "leetcode",
+  "language": "python3",
+  "url": "https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/",
+  "startedAt": "2026-10-16T12:48:00.680Z",
+  "solvedAt": "2026-10-16T19:11:53.539Z",
+  "activeDurationSeconds": 1324,
+  "createdAt": "2026-10-16T19:11:53.543Z",
+  "lastUpdatedAt": "2026-10-16T19:11:53.543Z"
+}
