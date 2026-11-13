@@ -1,0 +1,20 @@
+{
+  "id": "1385",
+  "title": "Find the Distance Value Between Two Arrays",
+  "slug": "find-the-distance-value-between-two-arrays",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Binary Search",
+    "Sorting"
+  ],
+  "platform": "leetcode",
+  "language": "python3",
+  "url": "https://leetcode.com/problems/find-the-distance-value-between-two-arrays/",
+  "startedAt": "2026-11-11T07:19:05.063Z",
+  "solvedAt": "2026-11-13T16:10:31.798Z",
+  "activeDurationSeconds": 3547,
+  "createdAt": "2026-11-13T16:10:31.816Z",
+  "lastUpdatedAt": "2026-11-13T16:10:31.816Z"
+}
