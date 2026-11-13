@@ -3,10 +3,12 @@ class Solution:
         if len(arr) < 2:
             return [-1]
             
-        minn, minn2 = float('inf'), float('inf')
+        # minn, minn2 = float('inf'), float('inf')
         
-        if arr[0] > arr[1]: minn, minn2 = arr[1], arr[0]
-        else: minn, minn2 = arr[0], arr[1]
+        # if arr[0] > arr[1]: minn, minn2 = arr[1], arr[0]
+        # else: minn, minn2 = arr[0], arr[1]
+        
+        minn, minn2 = min(arr[0], arr[1]), max(arr[0], arr[1])
         
         for i in range(len(arr)):
             if minn == arr[i]: continue
